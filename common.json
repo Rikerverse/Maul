@@ -1,0 +1,27 @@
+{
+    "general": {
+        "license": "YQILS-Y6F1N-DLLIK-EV7HC-UWEQI",
+        "json5": true,
+        "lang": "en"
+    },
+    "bot": {
+        "mongodb_uri": "mongodb+srv://jevans3443:<Love2024@> @athena.izugy.mongodb.net/?retryWrites=true&w=majority&appName=Maul",
+        "discord_bot_token": "MTM1MjgwOTA1MjEyNzg4NzU2MQ.GZWif1.KFnJgFwBhoCCIQ3IZiXneMQAp9AdntoVAdEqbY",
+        "discord_bot_id": "1352809052127887561",
+        "discord_guild_id": "1341852751008763955",
+        "server_name": "Kryse Diver",
+        "server_color": "#2C2F33"
+    },
+    "console": {
+        "logs_include_date": true
+    },
+    "util": {
+        "register_commands": true,
+        "register_emojis": true,
+        "prevent_duplicated_message": false,
+        "auto_restart": true,
+        "auto_restart_every": "7d",
+        "debug": false,
+        "developer_mode": false
+    }
+}
